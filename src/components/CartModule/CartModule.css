@@ -1,0 +1,22 @@
+
+.cart__total {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+    font-size: 2rem;
+}
+
+.get__shopping__list {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.promo__input {
+    line-height: 2;
+    margin-right: 2rem;
+}
+
+.cart__module__container {
+    padding: 2rem;
+}

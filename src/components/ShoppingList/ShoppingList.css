@@ -1,0 +1,24 @@
+
+.shopping__list__item {
+    width: 100%;
+}
+.cartContainer--shoppingList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.shopping__list__title, .shopping__list__order__items, .shopping__list__total {
+    margin-bottom: 2rem;
+    padding: 0rem 2rem 0 2rem;
+}
+.shopping__list__title {
+    padding-top: 1rem;
+}
+.shopping__list__order__item {
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+
+    background-color: #d9e1e9;
+}
